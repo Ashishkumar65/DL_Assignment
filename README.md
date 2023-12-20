@@ -15,4 +15,4 @@ This project explores the use of deep learning for threat detection, a crucial a
 ----------------------------------------
 
 
-![](https://github.com/tusharxoxoxo/curly-octo-sniffle/blob/main/How%20to%20defend%20against%20a%20knife%20attack.gif)
+
